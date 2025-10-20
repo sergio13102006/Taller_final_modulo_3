@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cd7fb79-62b8-4cc7-a25d-ffdc6957e8f3" name="Changes" comment="ejercicio y test del primer punto del taller listo" />
+    <list default="true" id="9cd7fb79-62b8-4cc7-a25d-ffdc6957e8f3" name="Changes" comment="area workspace.xml">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,12 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1760963140338</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="area workspace.xml">
+      <option name="closed" value="true" />
+      <created>1760975930897</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760975930897</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="se creo el proyect.toml y todo" />
     <MESSAGE value="ejercicio y test del primer punto del taller listo" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejercicio y test del primer punto del taller listo" />
+    <MESSAGE value="area workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="area workspace.xml" />
   </component>
 </project>
