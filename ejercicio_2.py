@@ -90,6 +90,6 @@ def main():
         print(f" Error: {e}")
 
 
-# 🔹 Ejecutar solo si se corre directamente
+#  Ejecutar solo si se corre directamente
 if __name__ == "__main__":
     main()
