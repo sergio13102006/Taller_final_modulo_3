@@ -72,8 +72,3 @@ print(f" Éxitos: {exitos}")
 print(f" Fallos: {fallas}")
 print(f"Porcentaje de éxito: {porcentaje:.2f}%")
 
-# Color visual (verde si pasa todo, rojo si falla algo)
-if fallas == 0:
-    print("\033[92m Todas las pruebas pasaron correctamente.\033[0m")
-else:
-    print("\033[91m Algunas pruebas fallaron.\033[0m")
