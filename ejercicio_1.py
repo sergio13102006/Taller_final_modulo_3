@@ -17,7 +17,7 @@ def interpretar_imc(imc: float) -> str:
     if imc < 18.5:
         return "Bajo peso"
     elif imc < 25:
-        return "Normal"
+        return "Estable"
     elif imc < 30:
         return "Sobrepeso"
     else:
