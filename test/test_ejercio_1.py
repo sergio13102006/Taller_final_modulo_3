@@ -32,7 +32,7 @@ def test_calcular_imc_altura_cero():
     (17.0, "Bajo peso"),
     (22.0, "Estable"),
     (27.0, "Sobrepeso"),
-    (32.0, "Obesidad"),
+    (32.0, "Exceso de peso"),
 ])
 def test_interpretar_imc(imc, esperado):
     assert interpretar_imc(imc) == esperado

@@ -24,6 +24,7 @@ def interpretar_imc(imc: float) -> str:
         return "Exceso de peso"
 
 
+
 def main():
     peso = float(input("Ingrese el peso (kg): "))
     altura = float(input("Ingrese la altura (m): "))
