@@ -1,5 +1,5 @@
 def crear_contador():
-    """Crea un contador independiente usando un closure."""
+    """contador independiente """
     conteo = 0  # Variable del ámbito externo
 
     def incrementar():
