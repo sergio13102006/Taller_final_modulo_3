@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cd7fb79-62b8-4cc7-a25d-ffdc6957e8f3" name="Changes" comment="area workspace.xml" />
+    <list default="true" id="9cd7fb79-62b8-4cc7-a25d-ffdc6957e8f3" name="Changes" comment="Ya se termino el ejercicio_13.py y el test 13 todos listos">
+      <change afterPath="$PROJECT_DIR$/biblioteca.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_ejercicio_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_ejercicio_15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicicio_14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio_15.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,9 +50,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests in test_ejercio_1.py.executor": "Run",
+    "Python.ejercicicio_14.executor": "Run",
     "Python.ejercicio_1.executor": "Run",
+    "Python.ejercicio_10.executor": "Run",
+    "Python.ejercicio_12.executor": "Run",
+    "Python.ejercicio_13.executor": "Run",
+    "Python.ejercicio_15.executor": "Run",
     "Python.ejercicio_2.executor": "Run",
+    "Python.ejercicio_5.executor": "Run",
+    "Python.ejercicio_6.executor": "Run",
+    "Python.ejercicio_7.executor": "Run",
+    "Python.ejercicio_8.executor": "Run",
+    "Python.ejercicio_9.executor": "Run",
+    "Python.test_ejercicio_3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -52,6 +73,11 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sergi\PycharmProjects\Taller_final_modulo_3\test" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -99,13 +125,182 @@
       <option name="project" value="LOCAL" />
       <updated>1760976151224</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="el test_ejercio_1.py esta lsito">
+      <option name="closed" value="true" />
+      <created>1761060472998</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761060472998</updated>
+    </task>
+    <task id="LOCAL-00006" summary="el test_ejercio_2&#10;.py esta listo">
+      <option name="closed" value="true" />
+      <created>1761060485391</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1761060485391</updated>
+    </task>
+    <task id="LOCAL-00007" summary="se revirtieron los cambios esta desde 0">
+      <option name="closed" value="true" />
+      <created>1761063068463</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1761063068463</updated>
+    </task>
+    <task id="LOCAL-00008" summary="se revirtieron los cambios esta desde 0">
+      <option name="closed" value="true" />
+      <created>1761063073926</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1761063073926</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Ya se termino el ejercicio_1.py">
+      <option name="closed" value="true" />
+      <created>1761220732924</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1761220732924</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Ya se termino el ejercicio_1.py y el test todos listos">
+      <option name="closed" value="true" />
+      <created>1762457234042</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1762457234042</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Ya se termino el ejercicio_1.py y el test todos listos">
+      <option name="closed" value="true" />
+      <created>1762457460890</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1762457460890</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Ya se termino el ejercicio_2.py y el test2 todos listos">
+      <option name="closed" value="true" />
+      <created>1762458013137</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1762458013137</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Ya se termino el ejercicio_3.py y el test 3 todos listos">
+      <option name="closed" value="true" />
+      <created>1762458449525</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1762458449525</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Ya se termino el ejercicio_4.py y el test 4 todos listos">
+      <option name="closed" value="true" />
+      <created>1762459157596</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1762459157596</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Ya se termino el ejercicio_5.py y el test 5 todos listos">
+      <option name="closed" value="true" />
+      <created>1762461637420</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1762461637420</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Ya se termino el ejercicio_6.py y el test 6 todos listos">
+      <option name="closed" value="true" />
+      <created>1762461649721</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1762461649721</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Ya se termino el ejercicio_7.py y el test 7 todos listos">
+      <option name="closed" value="true" />
+      <created>1762461669760</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1762461669760</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Ya se termino el ejercicio_8.py y el test 8 todos listos">
+      <option name="closed" value="true" />
+      <created>1762461680859</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1762461680859</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Ya se termino el ejercicio_9.py y el test 9 todos listos">
+      <option name="closed" value="true" />
+      <created>1762461701028</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1762461701028</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Ya se termino el ejercicio_10.py y el test 10 todos listos">
+      <option name="closed" value="true" />
+      <created>1762461709737</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1762461709737</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Ya se termino el ejercicio_11.py y el test 11 todos listos">
+      <option name="closed" value="true" />
+      <created>1762461720306</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1762461720306</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Ya se termino el ejercicio_12.py y el test 12 todos listos">
+      <option name="closed" value="true" />
+      <created>1762461730351</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1762461730351</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Ya se termino el ejercicio_13.py y el test 13 todos listos">
+      <option name="closed" value="true" />
+      <created>1762461741438</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1762461741438</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="se creo el proyect.toml y todo" />
     <MESSAGE value="ejercicio y test del primer punto del taller listo" />
     <MESSAGE value="area workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="area workspace.xml" />
+    <MESSAGE value="el test_ejercio_1.py esta lsito" />
+    <MESSAGE value="el test_ejercio_2&#10;.py esta listo" />
+    <MESSAGE value="se revirtieron los cambios esta desde 0" />
+    <MESSAGE value="Ya se termino el ejercicio_1.py" />
+    <MESSAGE value="Ya se termino el ejercicio_1.py y el test todos listos" />
+    <MESSAGE value="Ya se termino el ejercicio_2.py y el test2 todos listos" />
+    <MESSAGE value="Ya se termino el ejercicio_3.py y el test 3 todos listos" />
+    <MESSAGE value="Ya se termino el ejercicio_4.py y el test 4 todos listos" />
+    <MESSAGE value="Ya se termino el ejercicio_5.py y el test 5 todos listos" />
+    <MESSAGE value="Ya se termino el ejercicio_6.py y el test 6 todos listos" />
+    <MESSAGE value="Ya se termino el ejercicio_7.py y el test 7 todos listos" />
+    <MESSAGE value="Ya se termino el ejercicio_8.py y el test 8 todos listos" />
+    <MESSAGE value="Ya se termino el ejercicio_9.py y el test 9 todos listos" />
+    <MESSAGE value="Ya se termino el ejercicio_10.py y el test 10 todos listos" />
+    <MESSAGE value="Ya se termino el ejercicio_11.py y el test 11 todos listos" />
+    <MESSAGE value="Ya se termino el ejercicio_12.py y el test 12 todos listos" />
+    <MESSAGE value="Ya se termino el ejercicio_13.py y el test 13 todos listos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ya se termino el ejercicio_13.py y el test 13 todos listos" />
   </component>
 </project>
