@@ -8,8 +8,7 @@ def crear_perfil(nombre: str, edad: int, *hobbies: str, **redes_sociales: str) -
         *hobbies (str): Lista variable de hobbies del usuario.
         **redes_sociales (str): Redes sociales con el formato red=usuario.
 
-    Retorna:
-        str: Cadena con la información del perfil formateada.
+    return: cadena de texto str
     """
 
     #  Validaciones básicas
