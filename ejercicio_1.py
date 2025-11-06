@@ -21,7 +21,7 @@ def interpretar_imc(imc: float) -> str:
     elif imc < 30:
         return "Sobrepeso"
     else:
-        return "Obesidad"
+        return "Exceso de peso"
 
 
 def main():
