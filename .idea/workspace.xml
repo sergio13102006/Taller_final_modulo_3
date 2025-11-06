@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cd7fb79-62b8-4cc7-a25d-ffdc6957e8f3" name="Changes" comment="Ya se termino el ejercicio_13.py y el test 13 todos listos">
-      <change afterPath="$PROJECT_DIR$/biblioteca.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_ejercicio_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_ejercicio_15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicicio_14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicio_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio_15.py" afterDir="false" />
-    </list>
+    <list default="true" id="9cd7fb79-62b8-4cc7-a25d-ffdc6957e8f3" name="Changes" comment="listo entregar" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -277,7 +269,31 @@
       <option name="project" value="LOCAL" />
       <updated>1762461741438</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Ya se termino el ejercicio_14.py y el test 14 todos listos">
+      <option name="closed" value="true" />
+      <created>1762461768744</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1762461768745</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Ya se termino el ejercicio_15.py y el test 15 todos listos">
+      <option name="closed" value="true" />
+      <created>1762461779365</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1762461779365</updated>
+    </task>
+    <task id="LOCAL-00026" summary="listo entregar">
+      <option name="closed" value="true" />
+      <created>1762461806336</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1762461806336</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -301,6 +317,19 @@
     <MESSAGE value="Ya se termino el ejercicio_11.py y el test 11 todos listos" />
     <MESSAGE value="Ya se termino el ejercicio_12.py y el test 12 todos listos" />
     <MESSAGE value="Ya se termino el ejercicio_13.py y el test 13 todos listos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ya se termino el ejercicio_13.py y el test 13 todos listos" />
+    <MESSAGE value="Ya se termino el ejercicio_14.py y el test 14 todos listos" />
+    <MESSAGE value="Ya se termino el ejercicio_15.py y el test 15 todos listos" />
+    <MESSAGE value="listo entregar" />
+    <option name="LAST_COMMIT_MESSAGE" value="listo entregar" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ejercicio_14.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
